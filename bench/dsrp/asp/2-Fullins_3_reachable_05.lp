@@ -1,0 +1,13 @@
+k(6).
+start(3).
+start(4).
+start(10).
+start(12).
+start(51).
+start(52).
+goal(3).
+goal(4).
+goal(9).
+goal(49).
+goal(50).
+goal(51).
