@@ -1,1 +1,1 @@
-# dsr
+# Dominating Set Reconfiguration Problems: DSRP
