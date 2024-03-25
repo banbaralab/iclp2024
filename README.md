@@ -30,8 +30,8 @@ short).
     removed from the node X at step t.
 - token3
   + If the token is removed from node X which has any other token
-    on its neighborhood node, this hint limits the destination of
-    tokens to adjacent vertices.
+    on its adjacent nodes, this hint limits the destination of
+    token to its adjacent nodes.
 - heu
   + the heuristic of minimal domination sets.
   + If you use this heuristics, you need to write "--heu=domain".
