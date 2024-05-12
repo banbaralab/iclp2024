@@ -7,3 +7,5 @@ dominated(Y) :- in(X), edge(Y,X).
 
 #minimize { 1,X: in(X) }.
 
+#show in/1.
+
