@@ -1,0 +1,9 @@
+k(4).
+start(6).
+start(92).
+start(99).
+start(100).
+goal(12).
+goal(33).
+goal(65).
+goal(92).
