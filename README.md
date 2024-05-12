@@ -1,7 +1,7 @@
 # Dominating Set Reconfiguration with Answer Set Programming
 
 ## Requirements
-- [clingo](https://potassco.org/clingo/) version 5.5 or higher
+- [Python enabled clingo](https://potassco.org/clingo/) version 5.5 or higher
 
 ## Sample sessions
 ### Minimum Dominating Set Problem
