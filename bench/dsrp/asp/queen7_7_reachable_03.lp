@@ -1,9 +1,0 @@
-k(4).
-start(3).
-start(9).
-start(15).
-start(34).
-goal(3).
-goal(9).
-goal(15).
-goal(40).
